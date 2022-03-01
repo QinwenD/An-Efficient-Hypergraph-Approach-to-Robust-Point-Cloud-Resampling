@@ -1,7 +1,7 @@
 # An Efficient Hypergraph Approach to Robust Point Cloud Resampling
 This is a MATLAB program for the 3 proposed algorithms in our paper:
 
-Q. Deng, S. Zhang and Z. Ding, ``An Efficient Hypergraph Approach to Robust Point Cloud Resampling,'' *arXiv preprint arXiv:2103.06999*, Mar. 2021.
+Q. Deng, S. Zhang and Z. Ding, ``An Efficient Hypergraph Approach to Robust Point Cloud Resampling,'' in *IEEE Transactions on Image Processing,* vol. 31, pp. 1924-1937, 2022.
 
 # Cite
 Please cite our paper if you use this code in your own work:
