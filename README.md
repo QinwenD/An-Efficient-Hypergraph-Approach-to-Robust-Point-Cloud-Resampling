@@ -1,8 +1,8 @@
 # Hypergraph-based Point Cloud Resampling
 <p float="left">
-  <img src="Result Images/Bookshelf2_HKF.png" width="300" />
-  <img src="Result Images/Building_HKC.png" width="300" /> 
-  <img src="Result Images/Biplane_HKC.png" width="300" />
+  <img src="Result Images/Bookshelf2_HKF.png" width="250" />
+  <img src="Result Images/Building_HKC.png" width="250" /> 
+  <img src="Result Images/Biplane_HKC.png" width="250" />
 </p>
 
 # Descriptions
