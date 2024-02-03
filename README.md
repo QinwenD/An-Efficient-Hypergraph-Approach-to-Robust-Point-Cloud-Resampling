@@ -1,15 +1,9 @@
 # Hypergraph-based Point Cloud Resampling
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1; max-width: calc(33.33% - 10px); padding: 5px;">
-    <img src="Result Images/Bookshelf2_HKF.png" style="width: 100%; height: auto; object-fit: contain;" alt="Bookshelf" />
-  </div>
-  <div style="flex: 1; max-width: calc(33.33% - 10px); padding: 5px;">
-    <img src="Result Images/Building_HKC.png" style="width: 100%; height: auto; object-fit: contain;" alt="Building" />
-  </div>
-  <div style="flex: 1; max-width: calc(33.33% - 10px); padding: 5px;">
-    <img src="Result Images/Biplane_HKC.png" style="width: 100%; height: auto; object-fit: contain;" alt="Biplane" />
-  </div>
-</div>
+<p float="left">
+  <img src="Result Images/Bookshelf2_HKF.png" width="300" />
+  <img src="Result Images/Building_HKC.png" width="300" /> 
+  <img src="Result Images/Biplane_HKC.png" width="300" />
+</p>
 
 # Descriptions
 This is a MATLAB program for the 3 proposed algorithms in our papers:
