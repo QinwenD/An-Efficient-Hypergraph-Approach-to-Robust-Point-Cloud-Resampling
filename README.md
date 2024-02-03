@@ -1,4 +1,11 @@
 # Hypergraph-based Point Cloud Resampling
+<p float="left">
+  <img src="Result Images/Bookshelf2_HKF.png" width="330" />
+  <img src="Result Images/Building_HKC.png" width="330" /> 
+  <img src="Result Images/Biplane_HKC.png" width="330" />
+</p>
+
+# Descriptions
 This is a MATLAB program for the 3 proposed algorithms in our papers:
 
 Q. Deng, S. Zhang and Z. Ding, ``Point Cloud Resampling via Hypergraph Signal Processing,'' *IEEE Signal Processing Letters,* vol. 28, pp. 2117-2121, 2021.
